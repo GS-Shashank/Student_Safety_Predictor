@@ -17,9 +17,9 @@ Using the model generated we could predict the percentage of Safety of students 
 _______________________________________________________________________________________________________________________________________________________________________________
 Two approaches were made, each with slight modification. The resulting models are as follows:-
 
-1)comfort_rating =  2.364891 + 0.432573[RedZone] – 0.002590[dist]– 0.868723[resideHome] – 0.716845[resideHostel]– 0.755068[residePG] +0.251986[transpoCollege]+0.013585[transpoPersonal]
+            1)comfort_rating =  2.364891 + 0.432573[RedZone] – 0.002590[dist]– 0.868723[resideHome] – 0.716845[resideHostel]– 0.755068[residePG] +0.251986[transpoCollege]+0.013585[transpoPersonal]
 
-2)comfort_rating = 2.033332 + 0.428007[RedZone] - 0.000505[dist] -0.668045[resideHome] - 0.721530[resideHostel]- 0.762228[residePG] + 0.378394[transportCollege] +0.088947[transportPersonal]
+            2)comfort_rating = 2.033332 + 0.428007[RedZone] - 0.000505[dist] -0.668045[resideHome] - 0.721530[resideHostel]- 0.762228[residePG] + 0.378394[transportCollege] +0.088947[transportPersonal]
 _______________________________________________________________________________________________________________________________________________________________________________
 
 Now to determine the percentage or Student Comfort Index(SCI):
