@@ -24,20 +24,20 @@ Two approaches were made, each with slight modification. The resulting models ar
             
 RedZone-
     1 if NO
-	0 if YES
+    0 if YES
     
 dist-
     any real number distance (in km)
     
 resideHome, resideHostel, residePG -
     1 if YES
-	0 if NO
+    0 if NO
 
-transpoCollege, transpoPersonal     -   
+transpoCollege, transpoPersonal-
     1 if YES
-	0 if NO
+    0 if NO
 
-comfort_rating  - 
+comfort_rating-
     it is a number between  1  and  5
 
 ______________________________________________________________________________________________________________________________________________________________________________
