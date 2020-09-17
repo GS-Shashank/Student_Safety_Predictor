@@ -5,7 +5,7 @@ As We know COVID-19 has shattered the Educational system and online education so
 The survey was made wherin responses from students were collected and the data is stored in csv file format. 
 ________________________________________________________________________________________________________________________________________________________________________________
 The features considered to build the model are:-
-    a
+    
     1. Distance of students home from college
     2. Wheather students are in Redzone or not
     3. Place of residence of students
