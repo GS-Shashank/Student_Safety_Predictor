@@ -10,7 +10,7 @@ The features considered to build the model are:-
     2. Wheather students are in Redzone or not
     3. Place of residence of students
     4. Mode of transport
-    
+    5. 
 _______________________________________________________________________________________________________________________________________________________________________________    
 Basically, Supervised learning method is used. The model is built using the previously collected data. And since we have multiple feature it is "Multiple Linear Regression Model".
 
